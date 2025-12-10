@@ -1,6 +1,6 @@
 # 🍿 Anime-Sama Cinema & Autoplay
 
-![Icône de l'extension avec une avance rapide (>>)](icon.png)
+![Icône de l'extension avec une avance rapide (>>)](AnimeCinemaExtension/icon.png)
 
 > Une extension Chrome / Chromium conçue pour optimiser l'expérience de visionnage sur Anime-Sama et autres plateformes de streaming en ajoutant un **Mode Cinéma** immersif, un **Autoplay** agressif et un **Bouton Épisode Suivant** pour une navigation fluide.
 
