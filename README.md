@@ -56,4 +56,4 @@ L'extension s'active automatiquement sur les sites listés dans le `manifest.jso
 
 ## 📄 Licence
 
-Ce projet est sous licence [Ajouter le type de licence, ex: MIT].
+Ce projet est sous licence.
