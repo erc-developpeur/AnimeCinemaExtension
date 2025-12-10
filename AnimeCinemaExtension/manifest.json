@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "Anime-Sama Cinema & Autoplay",
+  "version": "1.0",
+  "description": "Mode Cinéma, Bouton Suivant et Autoplay pour Anime-Sama ",
+  "icons": {
+    "128": "icon.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://anime-sama.org/*",
+        "*://v6.voiranime.com/*",
+        "*://voiranime.com/*",
+        "*://video.sibnet.ru/*",
+        "*://sendvid.com/*",
+        "*://www.myvi.tv/*",
+        "*://*/*"
+      ],
+      "js": ["content.js"],
+      "run_at": "document_end",
+      "all_frames": true
+    }
+  ]
+}
